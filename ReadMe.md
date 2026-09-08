@@ -66,10 +66,9 @@ I enjoy solving coding challenges and turning ideas into real-world solutions.
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=an-rohit&bg_color=0d1117&color=00d9aa&line=00d9aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![snake gif](https://raw.githubusercontent.com/an-rohit/an-rohit/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 </div>
 
